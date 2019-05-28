@@ -11,7 +11,7 @@ public class StringExamples {
 		System.out.println("Number of characters "+numChars);
 		
 		char charAtPosition=name.charAt(4);
-		System.out.println("Character at position "+charAtPosition);
+		System.out.println("Character at position 4 "+charAtPosition);
 		
 		String sub=name.substring(0,5);
 		System.out.println("Get Subsctring 1 :"+sub);
@@ -35,7 +35,7 @@ public class StringExamples {
 		// object comparision btwn a and c
 		if(a==c)
 		{
-			System.out.println("a & c are samwe !!");
+			System.out.println("a & c are same !!");
 		}
 		else
 		{
